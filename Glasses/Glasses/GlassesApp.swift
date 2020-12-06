@@ -1,14 +1,15 @@
 //
-//  VisionBoardApp.swift
-//  VisionBoard
+//  GlassesApp.swift
+//  Glasses
 //
-//  Created by Luan Nguyen on 04/12/2020.
+//  Created by Luan Nguyen on 06/12/2020.
 //
 
 import SwiftUI
 
 @main
-struct VisionBoardApp: App {
+struct GlassesApp: App {
+    // MARK: - PROPERTIES
     
     // MARK: - BODY
     var body: some Scene {

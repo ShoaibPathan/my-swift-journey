@@ -7,25 +7,35 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		B30A5CF2257A0A0500F398C0 /* VisionBoardApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = B30A5CF1257A0A0500F398C0 /* VisionBoardApp.swift */; };
-		B30A5CF4257A0A0500F398C0 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B30A5CF3257A0A0500F398C0 /* ContentView.swift */; };
-		B30A5CF6257A0A0700F398C0 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B30A5CF5257A0A0700F398C0 /* Assets.xcassets */; };
-		B30A5CF9257A0A0700F398C0 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B30A5CF8257A0A0700F398C0 /* Preview Assets.xcassets */; };
-		B3DDCDD3257C8E4C00F1985C /* GridItemView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B3DDCDD2257C8E4C00F1985C /* GridItemView.swift */; };
+		B3DDCDA8257C771700F1985C /* GlassesApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = B3DDCDA7257C771700F1985C /* GlassesApp.swift */; };
+		B3DDCDAA257C771700F1985C /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B3DDCDA9257C771700F1985C /* ContentView.swift */; };
+		B3DDCDAC257C771B00F1985C /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B3DDCDAB257C771B00F1985C /* Assets.xcassets */; };
+		B3DDCDAF257C771B00F1985C /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B3DDCDAE257C771B00F1985C /* Preview Assets.xcassets */; };
+		B3DDCDBA257C775100F1985C /* CardView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B3DDCDB9257C775100F1985C /* CardView.swift */; };
+		B3DDCDBE257C77EE00F1985C /* Item.swift in Sources */ = {isa = PBXBuildFile; fileRef = B3DDCDBD257C77EE00F1985C /* Item.swift */; };
+		B3DDCDC1257C785E00F1985C /* CustomShape.swift in Sources */ = {isa = PBXBuildFile; fileRef = B3DDCDC0257C785E00F1985C /* CustomShape.swift */; };
+		B3DDCDC4257C788000F1985C /* Detail.swift in Sources */ = {isa = PBXBuildFile; fileRef = B3DDCDC3257C788000F1985C /* Detail.swift */; };
+		B3DDCDC7257C79E000F1985C /* Home.swift in Sources */ = {isa = PBXBuildFile; fileRef = B3DDCDC6257C79E000F1985C /* Home.swift */; };
+		B3DDCDCA257C7A8E00F1985C /* TabButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = B3DDCDC9257C7A8E00F1985C /* TabButton.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		B30A5CEE257A0A0500F398C0 /* VisionBoard.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = VisionBoard.app; sourceTree = BUILT_PRODUCTS_DIR; };
-		B30A5CF1257A0A0500F398C0 /* VisionBoardApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = VisionBoardApp.swift; sourceTree = "<group>"; };
-		B30A5CF3257A0A0500F398C0 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
-		B30A5CF5257A0A0700F398C0 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
-		B30A5CF8257A0A0700F398C0 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
-		B30A5CFA257A0A0700F398C0 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		B3DDCDD2257C8E4C00F1985C /* GridItemView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GridItemView.swift; sourceTree = "<group>"; };
+		B3DDCDA4257C771700F1985C /* Glasses.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Glasses.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		B3DDCDA7257C771700F1985C /* GlassesApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GlassesApp.swift; sourceTree = "<group>"; };
+		B3DDCDA9257C771700F1985C /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
+		B3DDCDAB257C771B00F1985C /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		B3DDCDAE257C771B00F1985C /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		B3DDCDB0257C771B00F1985C /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		B3DDCDB9257C775100F1985C /* CardView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CardView.swift; sourceTree = "<group>"; };
+		B3DDCDBD257C77EE00F1985C /* Item.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Item.swift; sourceTree = "<group>"; };
+		B3DDCDC0257C785E00F1985C /* CustomShape.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomShape.swift; sourceTree = "<group>"; };
+		B3DDCDC3257C788000F1985C /* Detail.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Detail.swift; sourceTree = "<group>"; };
+		B3DDCDC6257C79E000F1985C /* Home.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Home.swift; sourceTree = "<group>"; };
+		B3DDCDC9257C7A8E00F1985C /* TabButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TabButton.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
-		B30A5CEB257A0A0500F398C0 /* Frameworks */ = {
+		B3DDCDA1257C771700F1985C /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -35,78 +45,99 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		B30A5CE5257A0A0500F398C0 = {
+		B3DDCD9B257C771700F1985C = {
 			isa = PBXGroup;
 			children = (
-				B30A5CF0257A0A0500F398C0 /* VisionBoard */,
-				B30A5CEF257A0A0500F398C0 /* Products */,
+				B3DDCDA6257C771700F1985C /* Glasses */,
+				B3DDCDA5257C771700F1985C /* Products */,
 			);
 			sourceTree = "<group>";
 		};
-		B30A5CEF257A0A0500F398C0 /* Products */ = {
+		B3DDCDA5257C771700F1985C /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				B30A5CEE257A0A0500F398C0 /* VisionBoard.app */,
+				B3DDCDA4257C771700F1985C /* Glasses.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
 		};
-		B30A5CF0257A0A0500F398C0 /* VisionBoard */ = {
+		B3DDCDA6257C771700F1985C /* Glasses */ = {
 			isa = PBXGroup;
 			children = (
-				B30A5CF1257A0A0500F398C0 /* VisionBoardApp.swift */,
-				B30A5CF3257A0A0500F398C0 /* ContentView.swift */,
-				B3DDCDD2257C8E4C00F1985C /* GridItemView.swift */,
-				B30A5CF5257A0A0700F398C0 /* Assets.xcassets */,
-				B30A5CFA257A0A0700F398C0 /* Info.plist */,
-				B30A5CF7257A0A0700F398C0 /* Preview Content */,
+				B3DDCDB8257C774400F1985C /* Model */,
+				B3DDCDB7257C773D00F1985C /* View */,
+				B3DDCDA7257C771700F1985C /* GlassesApp.swift */,
+				B3DDCDA9257C771700F1985C /* ContentView.swift */,
+				B3DDCDAB257C771B00F1985C /* Assets.xcassets */,
+				B3DDCDB0257C771B00F1985C /* Info.plist */,
+				B3DDCDAD257C771B00F1985C /* Preview Content */,
 			);
-			path = VisionBoard;
+			path = Glasses;
 			sourceTree = "<group>";
 		};
-		B30A5CF7257A0A0700F398C0 /* Preview Content */ = {
+		B3DDCDAD257C771B00F1985C /* Preview Content */ = {
 			isa = PBXGroup;
 			children = (
-				B30A5CF8257A0A0700F398C0 /* Preview Assets.xcassets */,
+				B3DDCDAE257C771B00F1985C /* Preview Assets.xcassets */,
 			);
 			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+		B3DDCDB7257C773D00F1985C /* View */ = {
+			isa = PBXGroup;
+			children = (
+				B3DDCDB9257C775100F1985C /* CardView.swift */,
+				B3DDCDC0257C785E00F1985C /* CustomShape.swift */,
+				B3DDCDC3257C788000F1985C /* Detail.swift */,
+				B3DDCDC6257C79E000F1985C /* Home.swift */,
+				B3DDCDC9257C7A8E00F1985C /* TabButton.swift */,
+			);
+			path = View;
+			sourceTree = "<group>";
+		};
+		B3DDCDB8257C774400F1985C /* Model */ = {
+			isa = PBXGroup;
+			children = (
+				B3DDCDBD257C77EE00F1985C /* Item.swift */,
+			);
+			path = Model;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		B30A5CED257A0A0500F398C0 /* VisionBoard */ = {
+		B3DDCDA3257C771700F1985C /* Glasses */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = B30A5CFD257A0A0700F398C0 /* Build configuration list for PBXNativeTarget "VisionBoard" */;
+			buildConfigurationList = B3DDCDB3257C771B00F1985C /* Build configuration list for PBXNativeTarget "Glasses" */;
 			buildPhases = (
-				B30A5CEA257A0A0500F398C0 /* Sources */,
-				B30A5CEB257A0A0500F398C0 /* Frameworks */,
-				B30A5CEC257A0A0500F398C0 /* Resources */,
+				B3DDCDA0257C771700F1985C /* Sources */,
+				B3DDCDA1257C771700F1985C /* Frameworks */,
+				B3DDCDA2257C771700F1985C /* Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
 			);
-			name = VisionBoard;
-			productName = VisionBoard;
-			productReference = B30A5CEE257A0A0500F398C0 /* VisionBoard.app */;
+			name = Glasses;
+			productName = Glasses;
+			productReference = B3DDCDA4257C771700F1985C /* Glasses.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
 
 /* Begin PBXProject section */
-		B30A5CE6257A0A0500F398C0 /* Project object */ = {
+		B3DDCD9C257C771700F1985C /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
 				LastSwiftUpdateCheck = 1220;
 				LastUpgradeCheck = 1220;
 				TargetAttributes = {
-					B30A5CED257A0A0500F398C0 = {
+					B3DDCDA3257C771700F1985C = {
 						CreatedOnToolsVersion = 12.2;
 					};
 				};
 			};
-			buildConfigurationList = B30A5CE9257A0A0500F398C0 /* Build configuration list for PBXProject "VisionBoard" */;
+			buildConfigurationList = B3DDCD9F257C771700F1985C /* Build configuration list for PBXProject "Glasses" */;
 			compatibilityVersion = "Xcode 9.3";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -114,43 +145,48 @@
 				en,
 				Base,
 			);
-			mainGroup = B30A5CE5257A0A0500F398C0;
-			productRefGroup = B30A5CEF257A0A0500F398C0 /* Products */;
+			mainGroup = B3DDCD9B257C771700F1985C;
+			productRefGroup = B3DDCDA5257C771700F1985C /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				B30A5CED257A0A0500F398C0 /* VisionBoard */,
+				B3DDCDA3257C771700F1985C /* Glasses */,
 			);
 		};
 /* End PBXProject section */
 
 /* Begin PBXResourcesBuildPhase section */
-		B30A5CEC257A0A0500F398C0 /* Resources */ = {
+		B3DDCDA2257C771700F1985C /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				B30A5CF9257A0A0700F398C0 /* Preview Assets.xcassets in Resources */,
-				B30A5CF6257A0A0700F398C0 /* Assets.xcassets in Resources */,
+				B3DDCDAF257C771B00F1985C /* Preview Assets.xcassets in Resources */,
+				B3DDCDAC257C771B00F1985C /* Assets.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
-		B30A5CEA257A0A0500F398C0 /* Sources */ = {
+		B3DDCDA0257C771700F1985C /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				B30A5CF4257A0A0500F398C0 /* ContentView.swift in Sources */,
-				B3DDCDD3257C8E4C00F1985C /* GridItemView.swift in Sources */,
-				B30A5CF2257A0A0500F398C0 /* VisionBoardApp.swift in Sources */,
+				B3DDCDC1257C785E00F1985C /* CustomShape.swift in Sources */,
+				B3DDCDBE257C77EE00F1985C /* Item.swift in Sources */,
+				B3DDCDC4257C788000F1985C /* Detail.swift in Sources */,
+				B3DDCDAA257C771700F1985C /* ContentView.swift in Sources */,
+				B3DDCDBA257C775100F1985C /* CardView.swift in Sources */,
+				B3DDCDCA257C7A8E00F1985C /* TabButton.swift in Sources */,
+				B3DDCDA8257C771700F1985C /* GlassesApp.swift in Sources */,
+				B3DDCDC7257C79E000F1985C /* Home.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXSourcesBuildPhase section */
 
 /* Begin XCBuildConfiguration section */
-		B30A5CFB257A0A0700F398C0 /* Debug */ = {
+		B3DDCDB1257C771B00F1985C /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -211,7 +247,7 @@
 			};
 			name = Debug;
 		};
-		B30A5CFC257A0A0700F398C0 /* Release */ = {
+		B3DDCDB2257C771B00F1985C /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -266,44 +302,44 @@
 			};
 			name = Release;
 		};
-		B30A5CFE257A0A0700F398C0 /* Debug */ = {
+		B3DDCDB4257C771B00F1985C /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_ASSET_PATHS = "\"VisionBoard/Preview Content\"";
+				DEVELOPMENT_ASSET_PATHS = "\"Glasses/Preview Content\"";
 				DEVELOPMENT_TEAM = 5WWX4FV258;
 				ENABLE_PREVIEWS = YES;
-				INFOPLIST_FILE = VisionBoard/Info.plist;
+				INFOPLIST_FILE = Glasses/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 14.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = design.luannguyen.VisionBoard;
+				PRODUCT_BUNDLE_IDENTIFIER = design.luannguyen.Glasses;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
 			name = Debug;
 		};
-		B30A5CFF257A0A0700F398C0 /* Release */ = {
+		B3DDCDB5257C771B00F1985C /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_ASSET_PATHS = "\"VisionBoard/Preview Content\"";
+				DEVELOPMENT_ASSET_PATHS = "\"Glasses/Preview Content\"";
 				DEVELOPMENT_TEAM = 5WWX4FV258;
 				ENABLE_PREVIEWS = YES;
-				INFOPLIST_FILE = VisionBoard/Info.plist;
+				INFOPLIST_FILE = Glasses/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 14.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = design.luannguyen.VisionBoard;
+				PRODUCT_BUNDLE_IDENTIFIER = design.luannguyen.Glasses;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
@@ -313,25 +349,25 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		B30A5CE9257A0A0500F398C0 /* Build configuration list for PBXProject "VisionBoard" */ = {
+		B3DDCD9F257C771700F1985C /* Build configuration list for PBXProject "Glasses" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				B30A5CFB257A0A0700F398C0 /* Debug */,
-				B30A5CFC257A0A0700F398C0 /* Release */,
+				B3DDCDB1257C771B00F1985C /* Debug */,
+				B3DDCDB2257C771B00F1985C /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		B30A5CFD257A0A0700F398C0 /* Build configuration list for PBXNativeTarget "VisionBoard" */ = {
+		B3DDCDB3257C771B00F1985C /* Build configuration list for PBXNativeTarget "Glasses" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				B30A5CFE257A0A0700F398C0 /* Debug */,
-				B30A5CFF257A0A0700F398C0 /* Release */,
+				B3DDCDB4257C771B00F1985C /* Debug */,
+				B3DDCDB5257C771B00F1985C /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
-	rootObject = B30A5CE6257A0A0500F398C0 /* Project object */;
+	rootObject = B3DDCD9C257C771700F1985C /* Project object */;
 }
