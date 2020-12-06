@@ -18,4 +18,10 @@
 
 ---
 
+## How To Draw Smooth Curve
+
+![How To Draw Smooth Curve](./HowToDrawSmoothCurve.png "How To Draw Smooth Curve")
+
+---
+
 [SwiftUI Complex UI - Food App UI - Side Tab Bar - Complex Smooth Curves - SwiftUI 2.0 Tutorials by Kavsoft](https://www.youtube.com/watch?v=ZJrKj-HW6ss)
