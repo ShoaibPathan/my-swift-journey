@@ -15,3 +15,7 @@
 - SwiftUI Complex Animations
 - SwiftUI Custom Shapes
 - SwiftUI Custom Segment Control
+
+---
+
+[SwiftUI 2.0 Complex App UI - E-Commerce App - Complex Animations - SwiftUI Tutorials by Kavsoft](https://www.youtube.com/watch?v=bVrS6TEhcEY)
