@@ -11,3 +11,7 @@
 ![My First WatchOS App 4](./MyFirstWatchOSApp_4.png "My First WatchOS App 4")
 
 ---
+
+- Setup WatchOS Project
+- Build User Interface WatchOS with SwiftUI
+- SwiftUI WatchOS Conditionals

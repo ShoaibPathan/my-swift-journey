@@ -15,3 +15,9 @@ Visit SwiftUI website: [SwiftUI](https://developer.apple.com/xcode/swiftui/)
 > SwiftUI is a modern way to declare user interfaces for any Apple platform. Create beautiful, dynamic apps faster than ever before.
 
 Visit SwiftUI Tutorials from Apple: [SwiftUI Tutorials](https://developer.apple.com/tutorials/swiftui)
+
+---
+
+## Pending Projects
+
+[My First Widget](./MyFirstWatchOSApp/)
