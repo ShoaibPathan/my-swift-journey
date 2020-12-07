@@ -20,4 +20,4 @@ Visit SwiftUI Tutorials from Apple: [SwiftUI Tutorials](https://developer.apple.
 
 ## Pending Projects
 
-[My First Widget](./MyFirstWatchOSApp/)
+[My First Widget](./MyFirstWidget/)
