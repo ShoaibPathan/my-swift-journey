@@ -25,3 +25,11 @@ Visit SwiftUI Tutorials from Apple: [SwiftUI Tutorials](https://developer.apple.
 [My First Widget](./MyFirstWidget/)
 
 [Fetch Data API](./FetchDataAPI/)
+
+---
+
+## License
+
+Copyright 2020 Luan Nguyen
+
+Licensed under the [MIT License](./LICENSE)
