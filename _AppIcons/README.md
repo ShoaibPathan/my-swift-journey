@@ -1,3 +1,3 @@
-# App Icon for My Swift Journey
+# APP ICONS
 
 Copy `AppIcon.appiconset` inside `Assets.xcassets`
