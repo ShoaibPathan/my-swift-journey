@@ -22,9 +22,11 @@ Visit SwiftUI Tutorials from Apple: [SwiftUI Tutorials](https://developer.apple.
 
 ## Pending Projects
 
-[My First Widget](./MyFirstWidget/)
+1. [My First Widget](./MyFirstWidget/)
 
-[Fetch Data API](./FetchDataAPI/)
+2. [My First App Clips](./MyFirstAppClips/)
+
+3. [Fetch Data API](./FetchDataAPI/)
 
 ---
 
